@@ -1,0 +1,326 @@
+{
+  "Heb je meer interesse in werken met hardware of software?" : {
+    "Ik heb weinig interesse in software, ik werk het liefst zo veel mogelijk met hardware" : {
+      "kenmerk" : "Kennis over hardware",
+      "punten" : [ 0, 5, 2, 5 ]
+    },
+    "Ik vind het leuk om te werken met hardware, maar ik wil ook wat met software gaan doen" : {
+      "kenmerk" : "Interactieve instellingen kunnen plaatsen",
+      "punten" : [ 0, 0, 1, 5 ]
+    },
+    "Ik vind het leuk om te werken met software, maar ik wil ook wat met hardware gaan doen" : {
+      "kenmerk" : "Embedded systems ontwikkelen",
+      "punten" : [ 2, 0, 5, 2 ]
+    },
+    "Ik heb weinig interesse in hardware, ik werk het liefst zo veel mogelijk met software" : {
+      "kenmerk" : "Applicaties bouwen",
+      "punten" : [ 0, 0, 5, 1 ]
+    }
+  },
+  "Hoe belangrijk zijn projectplanningen voor jou?" : {
+    "Totaal onbelangrijk" : {
+      "kenmerk" : "Creatief en innovatief denken",
+      "punten" : [ 2, 4, 5, 5 ]
+    },
+    "Leuk om door te lezen" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 4 ]
+    },
+    "Goede manier om overzicht te houden" : {
+      "kenmerk" : "Aandacht geven aan wat de opdrachtgever van je verwacht",
+      "punten" : [ 3, 2, 5, 4 ]
+    },
+    "Dit is de manier om het project af te kunnen ronden" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    }
+  },
+  "Hoe uit jij jezelf creatief?" : {
+    "Door iets moois te ontwerpen en realiseren" : {
+      "kenmerk" : "Prototypes ontwerpen",
+      "punten" : [ 0, 0, 3, 5 ]
+    },
+    "Een creatieve oplossing zoeken voor een probleem" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 4 ]
+    },
+    "Op een creatieve manier naar data kijken" : {
+      "kenmerk" : "Werken met grote hoeveelheden data",
+      "punten" : [ 5, 3, 0, 0 ]
+    },
+    "Creatieve testen bedenken om zeker te weten dat een applicatie op alles is voorbereid" : {
+      "kenmerk" : "(Penetratie)testen uitvoeren",
+      "punten" : [ 2, 5, 4, 1 ]
+    }
+  },
+  "Hoe voorkom jij problemen in een groep?" : {
+    "Ik geef altijd de oplossing voor het probleem" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 4 ]
+    },
+    "Ik bedenk altijd nieuwe manieren om samen te werken" : {
+      "kenmerk" : "Sociale vaardigheden",
+      "punten" : [ 3, 5, 0, 4 ]
+    },
+    "Ik zorg ervoor dat iedereen aan het begin weet wat ze kunnen verwachten" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    },
+    "Ik pas mij altijd aan aan de wensen van de groep" : {
+      "kenmerk" : "Aanpasbaar zijn",
+      "punten" : [ 1, 5, 2, 4 ]
+    }
+  },
+  "Hoeveel vrijheid wil je binnen een project?" : {
+    "Ik wil een simpele opdracht krijgen en die vrij kunnen verwerkelijken" : {
+      "kenmerk" : "Creatief en innovatief denken",
+      "punten" : [ 2, 4, 5, 5 ]
+    },
+    "Ik wil veel vrijheid hebben maar wil wel een beetje informatie hebben" : {
+      "kenmerk" : "Aandacht geven aan wat de opdrachtgever van je verwacht",
+      "punten" : [ 3, 2, 5, 4 ]
+    },
+    "Ik wil in detail weten wat ik moet maken maar wil daar wel mijn eigen draai aan kunnen geven" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 4 ]
+    },
+    "Ik wil precies weten wat ik moet doen" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    }
+  },
+  "Je baas geeft je een opdracht voor een nieuw project. Dit project heeft geen deadline, alleen een lijst met eisen. Je hebt zelf de vrijheid om je team in te delen. Wat voor team maak je?" : {
+    "Je maakt het project in je eentje" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    },
+    "Je maakt een klein team waarin iedereen alles doet" : {
+      "kenmerk" : "Sociale vaardigheden",
+      "punten" : [ 3, 5, 0, 4 ]
+    },
+    "Je maakt een klein team waarin iedereen zijn eigen specialisatie heeft" : {
+      "kenmerk" : "Aandacht geven aan wat de opdrachtgever van je verwacht",
+      "punten" : [ 3, 2, 5, 4 ]
+    },
+    "Je maakt een groot team waarin verschillende kleine teams werken aan de onderdelen" : {
+      "kenmerk" : [ "Sociale vaardigheden", "Kunnen denken in oplossingen" ],
+      "punten" : [ 4, 8, 5, 8 ]
+    }
+  },
+  "Je merkt dat er een fout in deze code is. Wat doe je nu?" : {
+    "Je probeert de code zo goed mogelijk zelf op te lossen" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 4 ]
+    },
+    "Je geeft een oplossing aan je collega zodat hij of zij het op kan lossen" : {
+      "kenmerk" : "Beheersen van programmeertalen",
+      "punten" : [ 4, 5, 5, 4 ]
+    },
+    "Om hulp vragen aan je collega om er samen naar te kijken" : {
+      "kenmerk" : "Sociale vaardigheden",
+      "punten" : [ 3, 5, 0, 4 ]
+    },
+    "Geef het aan en ga verder, de code is niet jouw probleem" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    }
+  },
+  "Je wordt in een project ingedeeld om te werken aan data. Wat ga je het liefst doen?" : {
+    "Data verzamelen door middel van bijvoorbeeld marktonderzoeken" : {
+      "kenmerk" : [ "Marktanalyse uitvoeren", "Vastleggen van onderzoeksgegevens" ],
+      "punten" : [ 9, 5, 0, 6 ]
+    },
+    "De data die verzameld wordt door collega's opslaan op een goed georganiseerde en overzichtelijke manier" : {
+      "kenmerk" : [ "Werken met grote hoeveelheden data", "Accuraat werken" ],
+      "punten" : [ 10, 8, 4, 3 ]
+    },
+    "De opgeslagen data analyseren en onderzoeken en gebruikersonderzoeken uitvoeren om zo beter de data te begrijpen" : {
+      "kenmerk" : "Gebruikersonderzoek uitvoeren",
+      "punten" : [ 3, 0, 0, 5 ]
+    },
+    "Van grote hoeveelheden data grafieken maken zodat personen die niets weten over de data ook snappen waar de data over gaan" : {
+      "kenmerk" : "Data visualiseren",
+      "punten" : [ 5, 0, 0, 3 ]
+    }
+  },
+  "Hoeveel wil je afhankelijk zijn van anderen en hoeveel verantwoordelijkheid wil je hebben in een groepsproject?" : {
+    "Ik neem graag de leiding om ervoor te zorgen dat de samenwerking onder andere goed verloopt" : {
+      "kenmerk" : [ "Project management", "Sociale vaardigheden" ],
+      "punten" : [ 8, 8, 2, 6 ]
+    },
+    "Ik volg graag instructies op, zonder zelf eigenlijk met ideeën te komen" : {
+      "kenmerk" : "Aandachtgeven aan wat de opdrachtgever van je verwacht",
+      "punten" : [ 3, 2, 5, 4 ]
+    },
+    "Ik werk het liefst in een groep, maar wel waar iedereen zijn eigen input kan leveren" : {
+      "kenmerk" : [ "Sociale vaardigheden", "Creatief en innovatief denken" ],
+      "punten" : [ 5, 9, 5, 9 ]
+    },
+    "Ik werk het liefst zelfstandig, Ik kijk meestal met zelf naar problemen en kom dan zelf met oplossingen" : {
+      "kenmerk" : [ "Creatief en innovatief denken", "Kunnen denken in oplossingen" ],
+      "punten" : [ 3, 7, 10, 9 ]
+    }
+  },
+  "Wat analyseer je het liefst?" : {
+    "De huidige markt waarin je project zit" : {
+      "kenmerk" : "Marktanalyse",
+      "punten" : [ 5, 0, 0, 3 ]
+    },
+    "De mensen die je eindproduct zullen gebruiken" : {
+      "kenmerk" : "Gebruikersonderzoek uitvoeren",
+      "punten" : [ 3, 0, 0, 5 ]
+    },
+    "De data die is verkregen voor het project" : {
+      "kenmerk" : "Werken met grote hoeveelheden data",
+      "punten" : [ 5, 3, 0, 0 ]
+    },
+    "De verhoudingen binnen het project" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    }
+  },
+  "Wat doe je als iemand je hele project anders in gaat delen?" : {
+    "Je gaat daar vol tegenin" : {
+      "kenmerk" : "Project management",
+      "punten" : [ 5, 3, 2, 2 ]
+    },
+    "Ik overleg met de persoon" : {
+      "kenmerk" : "Sociale vaardigheden",
+      "punten" : [ 3, 5, 0, 4 ]
+    },
+    "Ik maak mijn eigen onderdelen af, en dan ga ik verder wat die persoon heeft bedacht" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 4 ]
+    },
+    "Ik laat alles vallen, en doe wat gevraagd wordt" : {
+      "kenmerk" : "Applicaties bouwen",
+      "punten" : [ 0, 0, 5, 1 ]
+    }
+  },
+  "Wat doe je het liefst in een project?" : {
+    "Ontwerpen" : {
+      "kenmerk" : "Creatief en innovatief denken",
+      "punten" : [ 2, 3, 5, 5 ]
+    },
+    "Bouwen" : {
+      "kenmerk" : "Applicaties bouwen",
+      "punten" : [ 0, 0, 5, 1 ]
+    },
+    "Onderhouden" : {
+      "kenmerk" : "Onderhouden van applicaties",
+      "punten" : [ 5, 0, 3, 0 ]
+    },
+    "Problemen oplossen" : {
+      "kenmerk" : "Kunnen denken in oplossingen",
+      "punten" : [ 1, 3, 5, 3 ]
+    }
+  },
+  "Wat doe je liever?" : {
+    "Een project bruikbaarder maken voor de gebruiker" : {
+      "kenmerk" : "Ïnteractieve instellingen kunnen plaatsen",
+      "punten" : [ 0, 0, 1, 5 ]
+    },
+    "Onderzoek doen voor een project" : {
+      "kenmerk" : "Marktanalyse",
+      "punten" : [ 5, 0, 0, 3 ]
+    },
+    "Een nieuw project beginnen" : {
+      "kenmerk" : "Applicaties bouwen",
+      "punten" : [ 0, 0, 5, 1 ]
+    },
+    "Verbeteren van een bestaand project" : {
+      "kenmerk" : "Optimaliseren van de applicatie",
+      "punten" : [ 1, 0, 5, 2 ]
+    }
+  },
+  "Wat is jouw voorkeur voor de werkwijze in je studie?" : {
+    "Alleen theorie met zo min mogelijk praktisch werk" : {
+      "kenmerk" : "Theoretisch",
+      "punten" : [ 3, 1, 2, 0 ]
+    },
+    "Ik kan goed switchen tussen praktijk en theorie, maar het liefst theoretisch" : {
+      "kenmerk" : [ "Aanpasbaar zijn", "Theoretisch" ],
+      "punten" : [ 4, 6, 4, 4 ]
+    },
+    "Ik kan goed switchen tussen praktijk en theorie, maar het liefst praktisch" : {
+      "kenmerk" : [ "Aanpasbaar zijn", "Praktisch" ],
+      "punten" : [ 3, 9, 5, 7 ]
+    },
+    "Puur praktisch werken met zo min mogelijk theorie" : {
+      "kenmerk" : "Praktisch",
+      "punten" : [ 2, 4, 3, 4 ]
+    }
+  },
+  "Wat vind je het belangrijkste aspect van een applicatie?" : {
+    "De veiligheid" : {
+      "kenmerk" : "Bedrijven kunnen adviseren in hun beveiliging",
+      "punten" : [ 4, 5, 1, 0 ]
+    },
+    "De functionaliteit" : {
+      "kenmerk" : "Applicaties bouwen",
+      "punten" : [ 0, 0, 5, 1 ]
+    },
+    "De gebruiksvriendelijkheid" : {
+      "kenmerk" : "Het aansturen van technische toepassingen gemakkelijk maken voor gebruikers",
+      "punten" : [ 1, 0, 3, 5 ]
+    },
+    "Het design" : {
+      "kenmerk" : "Creatief en innovatief denken",
+      "punten" : [ 2, 4, 5, 5 ]
+    }
+  },
+  "Wat voor AI ben je het meest in geinteresseerd?" : {
+    "Een AI die afwijkingen in een grote hoeveelheid data kan waarnemen" : {
+      "kenmerk" : "Werken met grote hoeveelheden data",
+      "punten" : [ 5, 3, 0, 0 ]
+    },
+    "Een AI die patronen in het gedrag van gebruikers kan detecteren" : {
+      "kenmerk" : "Gebruikersonderzoek uitvoeren",
+      "punten" : [ 3, 0, 0, 3 ]
+    },
+    "Een AI die aan de hand van data over het verleden een voorspelling van de toekomst kan maken" : {
+      "kenmerk" : "Werken met grote hoeveelheden data",
+      "punten" : [ 5, 3, 0, 0 ]
+    },
+    "Een AI die data op een zelf gekozen manier zo effectief data kan weergeven" : {
+      "kenmerk" : "Data visualiseren",
+      "punten" : [ 5, 0, 0, 3 ]
+    }
+  },
+  "Wat vindt je het interessants?" : {
+    "De recentste ontwikkelingen in virtual reality" : {
+      "kenmerk" : "Technologische ontwikkelingen volgen en toepassen binnen het bedrijf",
+      "punten" : [ 1, 5, 3, 2 ]
+    },
+    "Hoe smart stoplichten het verkeer verbeteren" : {
+      "kenmerk" : "Internet Of Things",
+      "punten" : [ 3, 4, 4, 5 ]
+    },
+    "Hoe een kleine chip een koffiezetapparaat kan runnen" : {
+      "kenmerk" : "Embedded systems ontwikkelen",
+      "punten" : [ 2, 0, 5, 2 ]
+    },
+    "Ieder onderdeel van een computer onafhankelijk bestuderen" : {
+      "kenmerk" : "Kennis over hardware",
+      "punten" : [ 0, 5, 2, 5 ]
+    }
+  },
+  "Wat is je spirit animal?" : {
+    "Beer" : {
+      "kenmerk" : "Bedrijven kunnen adviseren in hun beveiliging",
+      "punten" : [ 4, 5, 1, 0 ]
+    },
+    "Bever" : {
+      "kenmerk" : "Applicaties bouwen",
+      "punten" : [ 0, 0, 5, 1 ]
+    },
+    "Hond" : {
+      "kenmerk" : "Sociale vaardigheden",
+      "punten" : [ 3, 5, 0, 4 ]
+    },
+    "Specht" : {
+      "kenmerk" : "(Penetratie)testen uitvoeren",
+      "punten" : [ 4, 5, 5, 4 ]
+    }
+  }
+}
